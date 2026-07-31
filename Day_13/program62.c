@@ -1,7 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////////////////
 //
-//  Accept number or rows and number of columns from user and display below pattern
-//
+//  Accept number of rows and number of columns from user and display below pattern
 //
 //  Input : iRow = 5    iCol = 5
 //
@@ -13,9 +12,7 @@
 //
 /////////////////////////////////////////////////////////////////////////////////////////////
 
-
 #include<stdio.h>
-
 
 void Pattern(int iRow, int iCol)
 {
