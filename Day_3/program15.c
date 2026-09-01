@@ -1,3 +1,6 @@
+// check whether string cotains vowels or not
+
+
 #include<stdio.h>
 
 typedef int BOOL;
