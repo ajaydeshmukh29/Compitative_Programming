@@ -1,3 +1,4 @@
+// print the string
 package Day_16;
 
 import java.util.*;
@@ -12,6 +13,5 @@ class program76
    Arr = sobj.nextLine();
 
    System.out.println("Entered String is : "+Arr);
-
   }
 }
