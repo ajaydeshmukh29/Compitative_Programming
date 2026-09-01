@@ -1,3 +1,5 @@
+// print the even factor
+
 #include<stdio.h>
 
 void DisplayEvenFactor(int iNo)
