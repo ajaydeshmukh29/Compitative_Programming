@@ -1,3 +1,4 @@
+// Accept charactor and give the ASCII value or that charactor
 #include<stdio.h>
 
 void DisplayConvert(char cValue)
